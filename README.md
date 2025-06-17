@@ -1,4 +1,4 @@
-📝 Text Summarizer  
+## 📝 Text Summarizer  
 This project is a simple yet powerful web application for summarizing long texts using both extractive and abstractive techniques. Built with NLTK, Hugging Face Transformers, and Streamlit, it offers a clean interface for quick and accurate text summarization.
 
 🚀 Features  
