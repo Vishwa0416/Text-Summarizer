@@ -11,7 +11,7 @@ Interactive and user-friendly UI for real-time text input and summarization.
 ## 🎯 Customizable Length: 
 Choose the number of sentences for extractive summaries and adjust min/max length for abstractive ones.  
 ## ⚙️ Lightweight: 
-Fast and efficient — perfect for quick use cases and demonstrations.
+Fast and efficient perfect for quick use cases and demonstrations.
 
 # 🧰 Technologies Used  
 - NLTK  
