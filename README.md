@@ -20,7 +20,7 @@ Fast and efficient perfect for quick use cases and demonstrations.
 - PyTorch (used by the transformer model)
 
 # 📸 Demo  
-Watch the demo and walkthrough of the app: *Coming Soon* 🎥
+Watch the demo and walkthrough of the app: [*Watch Here*](https://youtu.be/wBXUyogiNJk?si=dPSNMCrn0r7L53c5) 🎥
 
 # 📂 Getting Started  
 Clone the repository and run the app locally:
