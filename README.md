@@ -23,12 +23,4 @@ Fast and efficient perfect for quick use cases and demonstrations.
 Watch the demo and walkthrough of the app: [*Watch Here*](https://youtu.be/wBXUyogiNJk?si=dPSNMCrn0r7L53c5) 🎥
 
 # 📂 Getting Started  
-Clone the repository and run the app locally:
-
-```bash
-git clone https://github.com/your-username/Text-Summarizer
-cd Text-Summarizer
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-pip install -r requirements.txt
-streamlit run app.py
+Clone the repository and run the app locally.
