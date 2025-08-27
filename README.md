@@ -20,4 +20,3 @@ Fast and efficient perfect for quick use cases and demonstrations.
 - PyTorch (used by the transformer model)
 
 # 📂 Getting Started  
-Clone the repository and run the app locally.
